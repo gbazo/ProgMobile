@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Definição única do tema Theme.Aula01 -->
+    <style name="Theme.Aula01" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Cores primárias -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+
+</resources>
